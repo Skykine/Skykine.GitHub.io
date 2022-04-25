@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Skykine/Skykine.GitHub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 班门弄斧
+本网页采用RPGMaker旗下引擎VNMaker开发.
+没有CV,AI我训练的.
+没有原创立绘,用的默认的.
+没有原创剧本,改变某日本知名作家的.
+没有版权,非盈利仅练手用的.
 
 ### Markdown
 
