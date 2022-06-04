@@ -89,34 +89,7 @@
     <div class="headband"></div>
 
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><script>
- function GetRandomNum(Min,Max)
-  {
-    var Range = Max - Min;
-    var Rand = Math.random();
-    return(Min + Math.round(Rand * Range));
-  }
-function setSidebarMarginTop (headerOffset) {
-    return $('#sidebar').css({ 'margin-top': headerOffset });
-  }
- function getHeaderOffset () {
-    return $('.header-inner').height() + CONFIG.sidebar.offset;
-  }
-  window.onload=function(){
-    var subtitle = "我知道你在看哦W又没在上课？W放轻松嘛~W人家等你很久了！";
-     var mytitle = subtitle.split("W");
-     var max = mytitle.length-1;
-     var index = GetRandomNum(0,max);
-     var text = mytitle[index];
-     $("#helloTitle").html(text);
-     var headOffset = getHeaderOffset();
-     setSidebarMarginTop(headOffset);
-     //��̬subtitle����
-  }
-</script>
-
-
-<div class="site-brand-container">
+      <div class="header-inner"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="切换导航栏">
       <span class="toggle-line toggle-line-first"></span>
@@ -388,12 +361,12 @@ function setSidebarMarginTop (headerOffset) {
     
 <div>
  
-<div>
+﻿<div>
  
 <div style="text-align:center;color:#bfbfbf;font-size:16px;"> 
-<span>-------- ���Ľ��� </span> 
+<span>-------- 本文结束 </span> 
 <i class="fa fa-paw"></i> 
-<span> ��л�Ķ� --------</span> 
+<span> 感谢阅读 --------</span> 
 </div> 
 
 </div> 
