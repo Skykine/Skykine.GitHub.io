@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kineblog.vercel.app/2022/06/01/hello-world/</loc>
-    <lastmod>2022-06-02</lastmod>
+    <loc>https://kineblog.vercel.app/2022/06/04/yunpc/</loc>
+    <lastmod>2022-06-04</lastmod>
   </url>
   <url>
-    <loc>https://kineblog.vercel.app/2022/06/01/wanderingsoul/</loc>
-    <lastmod>2022-06-01</lastmod>
+    <loc>https://kineblog.vercel.app/2022/06/01/hello-world/</loc>
+    <lastmod>2022-06-04</lastmod>
   </url>
   <url>
     <loc>https://kineblog.vercel.app/2022/06/01/volleyball/</loc>
-    <lastmod>2022-06-01</lastmod>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://kineblog.vercel.app/2022/06/01/wanderingsoul/</loc>
+    <lastmod>2022-06-04</lastmod>
   </url>
 </urlset> 
