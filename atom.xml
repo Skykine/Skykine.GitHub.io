@@ -3,11 +3,11 @@
   <title>227某人的博客</title>
   
   <subtitle>我知道你在看哦</subtitle>
-  <link href="https://kineblog.vercel.app/atom.xml" rel="self"/>
+  <link href="https://www.skykine.top/atom.xml" rel="self"/>
   
-  <link href="https://kineblog.vercel.app/"/>
+  <link href="https://www.skykine.top/"/>
   <updated>2022-06-05T07:39:10.488Z</updated>
-  <id>https://kineblog.vercel.app/</id>
+  <id>https://www.skykine.top/</id>
   
   <author>
     <name>227某人</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>论Win11云电脑的实现</title>
-    <link href="https://kineblog.vercel.app/2022/06/04/yunpc/"/>
-    <id>https://kineblog.vercel.app/2022/06/04/yunpc/</id>
+    <link href="https://www.skykine.top/2022/06/04/yunpc/"/>
+    <id>https://www.skykine.top/2022/06/04/yunpc/</id>
     <published>2022-06-04T12:15:33.396Z</published>
     <updated>2022-06-05T07:39:10.488Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="技术" scheme="https://kineblog.vercel.app/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.skykine.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="云电脑" scheme="https://kineblog.vercel.app/tags/%E4%BA%91%E7%94%B5%E8%84%91/"/>
+    <category term="云电脑" scheme="https://www.skykine.top/tags/%E4%BA%91%E7%94%B5%E8%84%91/"/>
     
   </entry>
   
   <entry>
     <title>《游魂》——HY建校20年20篇短篇小说选</title>
-    <link href="https://kineblog.vercel.app/2022/06/01/wanderingsoul/"/>
-    <id>https://kineblog.vercel.app/2022/06/01/wanderingsoul/</id>
+    <link href="https://www.skykine.top/2022/06/01/wanderingsoul/"/>
+    <id>https://www.skykine.top/2022/06/01/wanderingsoul/</id>
     <published>2022-06-01T10:16:54.288Z</published>
     <updated>2022-06-04T12:14:36.375Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="文学" scheme="https://kineblog.vercel.app/categories/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="https://www.skykine.top/categories/%E6%96%87%E5%AD%A6/"/>
     
     
-    <category term="文学" scheme="https://kineblog.vercel.app/tags/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="https://www.skykine.top/tags/%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>华育云中寄书，等你回来</title>
-    <link href="https://kineblog.vercel.app/2022/06/01/volleyball/"/>
-    <id>https://kineblog.vercel.app/2022/06/01/volleyball/</id>
+    <link href="https://www.skykine.top/2022/06/01/volleyball/"/>
+    <id>https://www.skykine.top/2022/06/01/volleyball/</id>
     <published>2022-06-01T10:16:54.237Z</published>
     <updated>2022-06-04T12:14:47.382Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="多媒体" scheme="https://kineblog.vercel.app/categories/%E5%A4%9A%E5%AA%92%E4%BD%93/"/>
+    <category term="多媒体" scheme="https://www.skykine.top/categories/%E5%A4%9A%E5%AA%92%E4%BD%93/"/>
     
     
-    <category term="文学" scheme="https://kineblog.vercel.app/tags/%E6%96%87%E5%AD%A6/"/>
+    <category term="文学" scheme="https://www.skykine.top/tags/%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://kineblog.vercel.app/2022/06/01/hello-world/"/>
-    <id>https://kineblog.vercel.app/2022/06/01/hello-world/</id>
+    <link href="https://www.skykine.top/2022/06/01/hello-world/"/>
+    <id>https://www.skykine.top/2022/06/01/hello-world/</id>
     <published>2022-06-01T10:16:54.149Z</published>
     <updated>2022-06-04T12:15:28.779Z</updated>
     
@@ -93,10 +93,10 @@
     
     
     
-    <category term="Hexo" scheme="https://kineblog.vercel.app/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://www.skykine.top/categories/Hexo/"/>
     
     
-    <category term="初始" scheme="https://kineblog.vercel.app/tags/%E5%88%9D%E5%A7%8B/"/>
+    <category term="初始" scheme="https://www.skykine.top/tags/%E5%88%9D%E5%A7%8B/"/>
     
   </entry>
   
