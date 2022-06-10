@@ -6,7 +6,7 @@
   <link href="https://www.skykine.top/atom.xml" rel="self"/>
   
   <link href="https://www.skykine.top/"/>
-  <updated>2022-06-06T08:14:02.892Z</updated>
+  <updated>2022-06-06T08:03:30.627Z</updated>
   <id>https://www.skykine.top/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>C++在线刷题1</title>
-    <link href="https://www.skykine.top/2022/06/05/c1/"/>
-    <id>https://www.skykine.top/2022/06/05/c1/</id>
-    <published>2022-06-05T07:10:00.000Z</published>
-    <updated>2022-06-06T08:14:02.892Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="一道只考察代码设计能力的水题"><a href="#一道只考察代码设计能力的水题" class="headerlink" title="一道只考察代码设计能力的水题"></a>一道只考察代码设计能力的水题</h1><p>题⽬灵感：<br>两个现代⼯程师为了测试出：⼈从⼏楼掉下去（楼层为n层），就会摔死。采用<br>试⽤品（代替⼈）进行测试，摔死之后的试⽤品将失效。<br>问题：</p><p>现在将层层包裹的鸡蛋从M楼扔下去，鸡蛋恰好碎裂（M-1层完好），大厦一共有N层。</p><p>最少需要测试⼏次（K），才能得到摔碎鸡蛋的楼层？⽅案是什么？？</p><p>输入：</p><p>一行数据</p><p>N的数据</p><p>输出：</p><p>一行数据</p><p>测试K次</p><p>提交方法：</p><iframe width=800 height=660 frameborder=0 scrolling=yes src=https://godbolt.org/></iframe><p>打好代码后在线编译</p><p>点击右上角Share</p><p>在评论区留下你的链接</p>]]></content>
-    
-    
-    <summary type="html">是真的水</summary>
-    
-    
-    
-    <category term="-C++" scheme="https://www.skykine.top/categories/C/"/>
-    
-    
-    <category term="-C++" scheme="https://www.skykine.top/tags/C/"/>
-    
-  </entry>
   
   <entry>
     <title>C++在线刷题1题解</title>
@@ -48,6 +27,27 @@
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="-C++" scheme="https://www.skykine.top/categories/C/"/>
+    
+    
+    <category term="-C++" scheme="https://www.skykine.top/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++在线刷题1</title>
+    <link href="https://www.skykine.top/2022/06/05/c1/"/>
+    <id>https://www.skykine.top/2022/06/05/c1/</id>
+    <published>2022-06-05T07:10:00.000Z</published>
+    <updated>2022-06-06T08:14:02.892Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一道只考察代码设计能力的水题"><a href="#一道只考察代码设计能力的水题" class="headerlink" title="一道只考察代码设计能力的水题"></a>一道只考察代码设计能力的水题</h1><p>题⽬灵感：<br>两个现代⼯程师为了测试出：⼈从⼏楼掉下去（楼层为n层），就会摔死。采用<br>试⽤品（代替⼈）进行测试，摔死之后的试⽤品将失效。<br>问题：</p><p>现在将层层包裹的鸡蛋从M楼扔下去，鸡蛋恰好碎裂（M-1层完好），大厦一共有N层。</p><p>最少需要测试⼏次（K），才能得到摔碎鸡蛋的楼层？⽅案是什么？？</p><p>输入：</p><p>一行数据</p><p>N的数据</p><p>输出：</p><p>一行数据</p><p>测试K次</p><p>提交方法：</p><iframe width=800 height=660 frameborder=0 scrolling=yes src=https://godbolt.org/></iframe><p>打好代码后在线编译</p><p>点击右上角Share</p><p>在评论区留下你的链接</p>]]></content>
+    
+    
+    <summary type="html">是真的水</summary>
     
     
     
