@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>C++在线刷题1</title>
+    <url>/2022/06/05/c1/</url>
+    <content><![CDATA[<h1 id="一道只考察代码设计能力的水题"><a href="#一道只考察代码设计能力的水题" class="headerlink" title="一道只考察代码设计能力的水题"></a>一道只考察代码设计能力的水题</h1><p>题⽬灵感：<br>两个现代⼯程师为了测试出：⼈从⼏楼掉下去（楼层为n层），就会摔死。采用<br>试⽤品（代替⼈）进行测试，摔死之后的试⽤品将失效。<br>问题：</p>
+<p>现在将层层包裹的鸡蛋从M楼扔下去，鸡蛋恰好碎裂（M-1层完好），大厦一共有N层。</p>
+<p>最少需要测试⼏次（K），才能得到摔碎鸡蛋的楼层？⽅案是什么？？</p>
+<p>输入：</p>
+<p>一行数据</p>
+<p>N的数据</p>
+<p>输出：</p>
+<p>一行数据</p>
+<p>测试K次</p>
+<p>提交方法：</p>
+<iframe width=800 height=660 frameborder=0 scrolling=yes src=https://godbolt.org/></iframe>
+
+<p>打好代码后在线编译</p>
+<p>点击右上角Share</p>
+<p>在评论区留下你的链接</p>
+]]></content>
+      <categories>
+        <category>C++</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/06/01/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -44,6 +70,28 @@
       </categories>
       <tags>
         <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高中文言文300实词</title>
+    <url>/2022/06/11/sc/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="6373245ae56d699f4ea42fdcc6f40454f552562838706510bf884d9b2cf94fb6">d119753c113e1b8dac069b12582391e49e647a4fd7fbe53f7e6df0babd9d46a144b668d10d8e688b30ed82ff9448b3ae09f99f085fcafd2ac17210113d2a1144b8fa1bd3219bbdb149e582db10157d2a2ca74514b8b673d6189897ca8f3a68553407a3c9a798c569cb46ed586d1bc689e745a9e5c89ced4f80cdab4d36e64a6ca72db46b217a2391c8e5156e83998931b14cf15efaba5255a8a42c71a49758052ddb1081f3a462dfe553b4a02ecbe6ead49e30bbb8af6db7b82f8b47017107ceaa78429788f90f9eac1aa4e3f20c5fa15c4a54ff2c305dfa6d3a3cfbb6576aa15226801c6021d275487adf3d4f05b46cb6d09b4efd29a1ae524c2fd61af05e850701f0618db89a32115828328fedb561c9c0d39750d18f1119906b88d8e494e3b51b4354d7a72c50212be8c524a56aa3e151c1ca964765c67177b487b09544722369c23745dab46fd81a65f9ee266c22ac54f59c9413371bae56fdbc7385284d85f49255b499fb1850bd17ea9db38573ec0e259cbea0d9c1fc7a54e39b771e402bb1ae7086fc1db1b2ecdbbd034769e1c6fda1d5bf8558a357465693a763d855ce29db9e32777a0b0d9a47b39b351e6f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">You can read this article after you finish coding.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>学习资料</category>
+      </categories>
+      <tags>
+        <tag>高中语文</tag>
       </tags>
   </entry>
   <entry>
@@ -104,54 +152,6 @@
       </categories>
       <tags>
         <tag>文学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高中文言文300实词</title>
-    <url>/2022/06/11/sc/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="6373245ae56d699f4ea42fdcc6f40454f552562838706510bf884d9b2cf94fb6">d119753c113e1b8dac069b12582391e49e647a4fd7fbe53f7e6df0babd9d46a144b668d10d8e688b30ed82ff9448b3ae09f99f085fcafd2ac17210113d2a1144b8fa1bd3219bbdb149e582db10157d2a2ca74514b8b673d6189897ca8f3a68553407a3c9a798c569cb46ed586d1bc689e745a9e5c89ced4f80cdab4d36e64a6ca72db46b217a2391c8e5156e83998931b14cf15efaba5255a8a42c71a49758052ddb1081f3a462dfe553b4a02ecbe6ead49e30bbb8af6db7b82f8b47017107ceaa78429788f90f9eac1aa4e3f20c5fa15c4a54ff2c305dfa6d3a3cfbb6576aa15226801c6021d275487adf3d4f05b46cb6d09b4efd29a1ae524c2fd61af05e850701f0618db89a32115828328fedb561c9c0d39750d18f1119906b88d8e494e3b51b4354d7a72c50212be8c524a56aa3e151c1ca964765c67177b487b09544722369c23745dab46fd81a65f9ee266c22ac54f59c9413371bae56fdbc7385284d85f49255b499fb1850bd17ea9db38573ec0e259cbea0d9c1fc7a54e39b771e402bb1ae7086fc1db1b2ecdbbd034769e1c6fda1d5bf8558a357465693a763d855ce29db9e32777a0b0d9a47b39b351e6f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">You can read this article after you finish coding.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>学习资料</category>
-      </categories>
-      <tags>
-        <tag>高中语文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>C++在线刷题1</title>
-    <url>/2022/06/05/c1/</url>
-    <content><![CDATA[<h1 id="一道只考察代码设计能力的水题"><a href="#一道只考察代码设计能力的水题" class="headerlink" title="一道只考察代码设计能力的水题"></a>一道只考察代码设计能力的水题</h1><p>题⽬灵感：<br>两个现代⼯程师为了测试出：⼈从⼏楼掉下去（楼层为n层），就会摔死。采用<br>试⽤品（代替⼈）进行测试，摔死之后的试⽤品将失效。<br>问题：</p>
-<p>现在将层层包裹的鸡蛋从M楼扔下去，鸡蛋恰好碎裂（M-1层完好），大厦一共有N层。</p>
-<p>最少需要测试⼏次（K），才能得到摔碎鸡蛋的楼层？⽅案是什么？？</p>
-<p>输入：</p>
-<p>一行数据</p>
-<p>N的数据</p>
-<p>输出：</p>
-<p>一行数据</p>
-<p>测试K次</p>
-<p>提交方法：</p>
-<iframe width=800 height=660 frameborder=0 scrolling=yes src=https://godbolt.org/></iframe>
-
-<p>打好代码后在线编译</p>
-<p>点击右上角Share</p>
-<p>在评论区留下你的链接</p>
-]]></content>
-      <categories>
-        <category>C++</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
       </tags>
   </entry>
   <entry>
