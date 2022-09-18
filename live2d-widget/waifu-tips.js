@@ -262,9 +262,9 @@ function initWidget(config, apiPath) {
 			apiPath
 		};
 	}
-	/*document.body.insertAdjacentHTML("beforeend", `<div id="waifu-toggle">
+	document.body.insertAdjacentHTML("beforeend", `<div id="waifu-toggle">
 			<span>看板娘</span>
-		</div>`);*/
+		</div>`);
 	const toggle = document.getElementById("waifu-toggle");
 	toggle.addEventListener("click", () => {
 		toggle.classList.remove("waifu-toggle-active");
