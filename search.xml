@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/06/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>初始</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>C++在线刷题1</title>
     <url>/2022/06/05/c1/</url>
     <content><![CDATA[<h1 id="一道只考察代码设计能力的水题"><a href="#一道只考察代码设计能力的水题" class="headerlink" title="一道只考察代码设计能力的水题"></a>一道只考察代码设计能力的水题</h1><p>题⽬灵感：<br>两个现代⼯程师为了测试出：⼈从⼏楼掉下去（楼层为n层），就会摔死。采用<br>试⽤品（代替⼈）进行测试，摔死之后的试⽤品将失效。<br>问题：</p>
@@ -27,6 +51,28 @@
       </tags>
   </entry>
   <entry>
+    <title>高中文言文300实词</title>
+    <url>/2022/06/11/sc/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="6373245ae56d699f4ea42fdcc6f40454f552562838706510bf884d9b2cf94fb6">d119753c113e1b8dac069b12582391e49e647a4fd7fbe53f7e6df0babd9d46a144b668d10d8e688b30ed82ff9448b3ae09f99f085fcafd2ac17210113d2a1144b8fa1bd3219bbdb149e582db10157d2a2ca74514b8b673d6189897ca8f3a68553407a3c9a798c569cb46ed586d1bc689e745a9e5c89ced4f80cdab4d36e64a6ca72db46b217a2391c8e5156e83998931b14cf15efaba5255a8a42c71a49758052ddb1081f3a462dfe553b4a02ecbe6ead49e30bbb8af6db7b82f8b47017107ceaa78429788f90f9eac1aa4e3f20c5fa15c4a54ff2c305dfa6d3a3cfbb6576aa15226801c6021d275487adf3d4f05b46cb6d09b4efd29a1ae524c2fd61af05e850701f0618db89a32115828328fedb561c9c0d39750d18f1119906b88d8e494e3b51b4354d7a72c50212be8c524a56aa3e151c1ca964765c67177b487b09544722369c23745dab46fd81a65f9ee266c22ac54f59c9413371bae56fdbc7385284d85f49255b499fb1850bd17ea9db38573ec0e259cbea0d9c1fc7a54e39b771e402bb1ae7086fc1db1b2ecdbbd034769e1c6fda1d5bf8558a357465693a763d855ce29db9e32777a0b0d9a47b39b351e6f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">You can read this article after you finish coding.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>学习资料</category>
+      </categories>
+      <tags>
+        <tag>高中语文</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>C++在线刷题1题解</title>
     <url>/2022/06/05/cpp1/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -49,49 +95,47 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/06/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>《游魂》——SHS建校130年130篇短篇小说选</title>
+    <url>/2022/06/01/wanderingsoul/</url>
+    <content><![CDATA[<h1 id="《游魂》——HY建校20年20篇短篇小说选"><a href="#《游魂》——HY建校20年20篇短篇小说选" class="headerlink" title="《游魂》——HY建校20年20篇短篇小说选"></a>《游魂》——HY建校20年20篇短篇小说选</h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1866409883&auto=1&height=66"></iframe>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>弗洛雷斯群岛（葡）（北大西洋）</p>
+<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.aotrip.net%2FUpload%2Fimage%2F20180614%2F20180614132644_48813.jpg&refer=http%3A%2F%2Fwww.aotrip.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656558793&t=a2e935183b3434128d3dcb580f5fffc3" alt="弗洛雷斯岛"></p>
+<p>黄昏降临在海岸线上。</p>
+<p>人，早是散去了。蓝色的天际开始是夹杂着浅黄色，再掺了一丝橙红和深紫。然而光线很是明亮，盯着那几，只盘旋的海鸥过久，竟有些眩晕——一半是因为耀眼的光，另一半则是因为那诡异的路线，像是在用花体字丝滑地署着名，并非复杂，恰恰相反，是简洁得令人迟钝。</p>
+<p>注视着这一切的，除了主之外，还另有其人。</p>
+<p>北大西洋上的小岛，宁静祥和算是常态。然而，与靠近大陆近海上的岛屿的恬静、舒缓、闲适、淳朴不同，它是台风眼式的。波浪是和谐的，海风清新地吹着，但是可以感觉到，这并非清澈见底的纯净，而是深不可测的沉静。再星球第二大洋上，无时无刻不积蓄着巨大的能量，或许有人会联想到死火山。它的宁静祥和令人震颤，就仿佛是一场永不停歇的风暴中被无限拉长的间隙，是一根飘荡在浩瀚海洋上的洁白羽毛，随时会被吞噬，却永远不知道是何时。</p>
+<p>天色暗得相当之快，而且很难注意到。辽阔的天空中浅黄与橙红飞快地褪去了，深蓝得产生则像是蔚蓝得布面后方淋了一瓶马德拉葡萄酒，亮度得急剧降低并不使人感到压抑，反而是一种诱惑，神秘的沉醉。</p>
+<p>浪极规律地拍打着礁石，溅起的浪花却很微弱，因为海风的气味越来越浓，抑制了空气的流动感——风在不经意间静止了，乳白色的雾气悄无声息地笼罩了整个海岸。</p>
+<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp06%2F2010201020134064-0-lp-380.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656558880&t=7b9e9ff9bb05898693a1e899e243c4b1" alt="紫金"></p>
+<p>新月在东方升起，望着同样深蓝的大西洋与夜空，很难找到参照物。于是不能确定月亮移动的速度，唯一可以确定的是雾霭很浓厚，令人感觉并不是从海洋上聚集形成，而是在更遥远的地方被创造出来。</p>
+<p>海滨有一座古老的教堂，是殖民之初建造的，沿用至今。它既谈不上宏伟，也不算精致，更多是和这夜色一般的肃穆。夜深寂静无人，大堂空荡荡的，雾气弥漫渗透进教堂内，那气味的侵略性消减不少。偏Ⅹ靠海，里面摆放着一架钢琴，银色的月光倾泻而下。</p>
+<p>宁静被打破了。</p>
+<p>海鸥径直飞向教堂，它们本该回的，却仿佛受到迷雾的召唤，捕食一般扑进去了。雾刹那间变得浓郁，漫延开来，因此看不清海鸥的下落。这时是该有什么的，却什么都没有。</p>
+<p>九点、十点、十一点．．．月亮极不情愿地上升。雾仍不见散去。</p>
+<p>时钟指向十一点五十五分，海浪规律性的拍打停止了，就像被骤然终止的钢琴曲一般，寂静悄然地退却了。迷雾与海洋仿佛有着相同的脉搏，却也紊乱起来。教堂内的“信徒”们沸腾了，如果海鸥还是海鸥并仍身处其中，将会立刻逃跑．．．不，不会．．．那雾暴烈起来，像马德拉葡萄酒的后劲上来，海浪般翻涌着，狠狠地砸向偏室。</p>
+<p>十二点的钟声敲响，它终于出现了。</p>
+<p>它穿着一件黑色的斗篷，帽子压得很低，又带着黑色得面纱，僵直地立着，如果不是为了衣着优雅，佩有饰物，在黑暗中根本无法辨认。它得颈部挂着一条银色十字架项链，衣襟左侧隐约露出一枚银质戒指，在极微弱得光线里仍然发亮，质地很好，相当纯。</p>
+<p>它向偏室“飘”去。说是“飘”，是因为判断它是个人形，或许是个幽灵，但它依然坚持优雅得步伐，让人不禁猜测生前是一名贵族。..</p>
+<p>它端正地鞠了一躬，随即坐到钢琴前，颤抖着打开琴盖。海洋生命得迹象隐藏着，此刻仿佛一潭亘古以来毫无波澜的死水，有着水银般的质感，浇铸在星球之上。夜空中的幕布也就绪了，大片紫灰色的云不知何时给新月带上了面纱，迷雾几乎笼罩着教堂，缠绵、潮湿而静谧，万物都肃穆地等待着。</p>
+<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdpic.tiankong.com%2F58%2F5s%2FQJ6385852472.jpg&refer=http%3A%2F%2Fdpic.tiankong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656559575&t=f8c6c7c7d5e85210208164e29098f9ca" alt="管风琴"></p>
+<p>十二点。</p>
+<p>它奏响了第一个音符。那琴极老旧，音质并不算好，它的技术也只能说是一般，拘谨了些。然而那迷雾将琴声过滤了，一半在教堂中回荡着，衬得并不宽敞的教堂格外空旷，另一半则乘着刮起的海风在海面上悠扬流淌。</p>
+<p>那声音相当深沉，有一种隐藏的、克制的、无声撕裂的哀伤。它很端正地坐着，除了双手，其他部位几乎静止，以至于琴声也是如此工整。但这只是大西洋的第一层，尘世的俗光可以照到的浅处，再深处是波涛汹涌。它被掩盖了，可仍然存在。主虔听这这第二层声音，注视着它，久久不曾离开。</p>
+<p>琴声规整地摹画着黑暗中一滴悬而不决得眼泪。大西洋的海水涌上岸来，空旷的岸边只有这座教堂，新月孤悬在空中，落下数点惨淡的银白。一片空荡荡的迷离中，压抑的惆怅流转着。苍茫的大西洋上，一座偏僻的岛屿，清朗的深夜，不知弹了多久，海水涨了又退去，直至新月西陲，曙光在东方显现。</p>
+<p>这是，第三层声音出现了，那是海底，是坚实的温和。它同样克制平静，而相较于第一种，那是人子用尺划出的直线，这是主创造的曲线无限分割后的近似。它是自然的，灵魂深处的稳定。这是伟大艺术内在的制衡，就像燃尽的火焰：灰烬，那是表象，是手法；想象出来的火焰，那是感情，是思想；而这是一种不可言说的微妙，是所谓的je ne sais quoi，是火焰的余温，是上升的青烟.岛上隐藏的不安被它逐渐抚平了，大西洋的海水最终牢固而温顺地漫上来，晨曦伴随着被净化的海风铺在岛屿上。</p>
+<p>仿佛一根洁白的羽毛最终被海风带到一望无际的原野之上。</p>
+<p><img src="https://pics6.baidu.com/feed/f703738da9773912390b9335e1fec412377ae2a2.jpeg?token=9720c567471f56fce0bf4b0a9a63f383" alt="羽毛草"></p>
+<p>海鸥远逝在天际。</p>
+<p>它消失了，不知何时。</p>
+<p>一如多年前Adara-von-Schrodinger小姐重伤远行的那个雨夜，那个安静的黎明。</p>
+<p>by:张博文</p>
 ]]></content>
       <categories>
-        <category>Hexo</category>
+        <category>文学</category>
       </categories>
       <tags>
-        <tag>初始</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高中文言文300实词</title>
-    <url>/2022/06/11/sc/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="6373245ae56d699f4ea42fdcc6f40454f552562838706510bf884d9b2cf94fb6">d119753c113e1b8dac069b12582391e49e647a4fd7fbe53f7e6df0babd9d46a144b668d10d8e688b30ed82ff9448b3ae09f99f085fcafd2ac17210113d2a1144b8fa1bd3219bbdb149e582db10157d2a2ca74514b8b673d6189897ca8f3a68553407a3c9a798c569cb46ed586d1bc689e745a9e5c89ced4f80cdab4d36e64a6ca72db46b217a2391c8e5156e83998931b14cf15efaba5255a8a42c71a49758052ddb1081f3a462dfe553b4a02ecbe6ead49e30bbb8af6db7b82f8b47017107ceaa78429788f90f9eac1aa4e3f20c5fa15c4a54ff2c305dfa6d3a3cfbb6576aa15226801c6021d275487adf3d4f05b46cb6d09b4efd29a1ae524c2fd61af05e850701f0618db89a32115828328fedb561c9c0d39750d18f1119906b88d8e494e3b51b4354d7a72c50212be8c524a56aa3e151c1ca964765c67177b487b09544722369c23745dab46fd81a65f9ee266c22ac54f59c9413371bae56fdbc7385284d85f49255b499fb1850bd17ea9db38573ec0e259cbea0d9c1fc7a54e39b771e402bb1ae7086fc1db1b2ecdbbd034769e1c6fda1d5bf8558a357465693a763d855ce29db9e32777a0b0d9a47b39b351e6f</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">You can read this article after you finish coding.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>学习资料</category>
-      </categories>
-      <tags>
-        <tag>高中语文</tag>
+        <tag>文学</tag>
       </tags>
   </entry>
   <entry>
@@ -149,50 +193,6 @@
 ]]></content>
       <categories>
         <category>多媒体</category>
-      </categories>
-      <tags>
-        <tag>文学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《游魂》——SHS建校130年130篇短篇小说选</title>
-    <url>/2022/06/01/wanderingsoul/</url>
-    <content><![CDATA[<h1 id="《游魂》——HY建校20年20篇短篇小说选"><a href="#《游魂》——HY建校20年20篇短篇小说选" class="headerlink" title="《游魂》——HY建校20年20篇短篇小说选"></a>《游魂》——HY建校20年20篇短篇小说选</h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1866409883&auto=1&height=66"></iframe>
-
-<p>弗洛雷斯群岛（葡）（北大西洋）</p>
-<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.aotrip.net%2FUpload%2Fimage%2F20180614%2F20180614132644_48813.jpg&refer=http%3A%2F%2Fwww.aotrip.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656558793&t=a2e935183b3434128d3dcb580f5fffc3" alt="弗洛雷斯岛"></p>
-<p>黄昏降临在海岸线上。</p>
-<p>人，早是散去了。蓝色的天际开始是夹杂着浅黄色，再掺了一丝橙红和深紫。然而光线很是明亮，盯着那几，只盘旋的海鸥过久，竟有些眩晕——一半是因为耀眼的光，另一半则是因为那诡异的路线，像是在用花体字丝滑地署着名，并非复杂，恰恰相反，是简洁得令人迟钝。</p>
-<p>注视着这一切的，除了主之外，还另有其人。</p>
-<p>北大西洋上的小岛，宁静祥和算是常态。然而，与靠近大陆近海上的岛屿的恬静、舒缓、闲适、淳朴不同，它是台风眼式的。波浪是和谐的，海风清新地吹着，但是可以感觉到，这并非清澈见底的纯净，而是深不可测的沉静。再星球第二大洋上，无时无刻不积蓄着巨大的能量，或许有人会联想到死火山。它的宁静祥和令人震颤，就仿佛是一场永不停歇的风暴中被无限拉长的间隙，是一根飘荡在浩瀚海洋上的洁白羽毛，随时会被吞噬，却永远不知道是何时。</p>
-<p>天色暗得相当之快，而且很难注意到。辽阔的天空中浅黄与橙红飞快地褪去了，深蓝得产生则像是蔚蓝得布面后方淋了一瓶马德拉葡萄酒，亮度得急剧降低并不使人感到压抑，反而是一种诱惑，神秘的沉醉。</p>
-<p>浪极规律地拍打着礁石，溅起的浪花却很微弱，因为海风的气味越来越浓，抑制了空气的流动感——风在不经意间静止了，乳白色的雾气悄无声息地笼罩了整个海岸。</p>
-<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp06%2F2010201020134064-0-lp-380.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656558880&t=7b9e9ff9bb05898693a1e899e243c4b1" alt="紫金"></p>
-<p>新月在东方升起，望着同样深蓝的大西洋与夜空，很难找到参照物。于是不能确定月亮移动的速度，唯一可以确定的是雾霭很浓厚，令人感觉并不是从海洋上聚集形成，而是在更遥远的地方被创造出来。</p>
-<p>海滨有一座古老的教堂，是殖民之初建造的，沿用至今。它既谈不上宏伟，也不算精致，更多是和这夜色一般的肃穆。夜深寂静无人，大堂空荡荡的，雾气弥漫渗透进教堂内，那气味的侵略性消减不少。偏Ⅹ靠海，里面摆放着一架钢琴，银色的月光倾泻而下。</p>
-<p>宁静被打破了。</p>
-<p>海鸥径直飞向教堂，它们本该回的，却仿佛受到迷雾的召唤，捕食一般扑进去了。雾刹那间变得浓郁，漫延开来，因此看不清海鸥的下落。这时是该有什么的，却什么都没有。</p>
-<p>九点、十点、十一点．．．月亮极不情愿地上升。雾仍不见散去。</p>
-<p>时钟指向十一点五十五分，海浪规律性的拍打停止了，就像被骤然终止的钢琴曲一般，寂静悄然地退却了。迷雾与海洋仿佛有着相同的脉搏，却也紊乱起来。教堂内的“信徒”们沸腾了，如果海鸥还是海鸥并仍身处其中，将会立刻逃跑．．．不，不会．．．那雾暴烈起来，像马德拉葡萄酒的后劲上来，海浪般翻涌着，狠狠地砸向偏室。</p>
-<p>十二点的钟声敲响，它终于出现了。</p>
-<p>它穿着一件黑色的斗篷，帽子压得很低，又带着黑色得面纱，僵直地立着，如果不是为了衣着优雅，佩有饰物，在黑暗中根本无法辨认。它得颈部挂着一条银色十字架项链，衣襟左侧隐约露出一枚银质戒指，在极微弱得光线里仍然发亮，质地很好，相当纯。</p>
-<p>它向偏室“飘”去。说是“飘”，是因为判断它是个人形，或许是个幽灵，但它依然坚持优雅得步伐，让人不禁猜测生前是一名贵族。..</p>
-<p>它端正地鞠了一躬，随即坐到钢琴前，颤抖着打开琴盖。海洋生命得迹象隐藏着，此刻仿佛一潭亘古以来毫无波澜的死水，有着水银般的质感，浇铸在星球之上。夜空中的幕布也就绪了，大片紫灰色的云不知何时给新月带上了面纱，迷雾几乎笼罩着教堂，缠绵、潮湿而静谧，万物都肃穆地等待着。</p>
-<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdpic.tiankong.com%2F58%2F5s%2FQJ6385852472.jpg&refer=http%3A%2F%2Fdpic.tiankong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656559575&t=f8c6c7c7d5e85210208164e29098f9ca" alt="管风琴"></p>
-<p>十二点。</p>
-<p>它奏响了第一个音符。那琴极老旧，音质并不算好，它的技术也只能说是一般，拘谨了些。然而那迷雾将琴声过滤了，一半在教堂中回荡着，衬得并不宽敞的教堂格外空旷，另一半则乘着刮起的海风在海面上悠扬流淌。</p>
-<p>那声音相当深沉，有一种隐藏的、克制的、无声撕裂的哀伤。它很端正地坐着，除了双手，其他部位几乎静止，以至于琴声也是如此工整。但这只是大西洋的第一层，尘世的俗光可以照到的浅处，再深处是波涛汹涌。它被掩盖了，可仍然存在。主虔听这这第二层声音，注视着它，久久不曾离开。</p>
-<p>琴声规整地摹画着黑暗中一滴悬而不决得眼泪。大西洋的海水涌上岸来，空旷的岸边只有这座教堂，新月孤悬在空中，落下数点惨淡的银白。一片空荡荡的迷离中，压抑的惆怅流转着。苍茫的大西洋上，一座偏僻的岛屿，清朗的深夜，不知弹了多久，海水涨了又退去，直至新月西陲，曙光在东方显现。</p>
-<p>这是，第三层声音出现了，那是海底，是坚实的温和。它同样克制平静，而相较于第一种，那是人子用尺划出的直线，这是主创造的曲线无限分割后的近似。它是自然的，灵魂深处的稳定。这是伟大艺术内在的制衡，就像燃尽的火焰：灰烬，那是表象，是手法；想象出来的火焰，那是感情，是思想；而这是一种不可言说的微妙，是所谓的je ne sais quoi，是火焰的余温，是上升的青烟.岛上隐藏的不安被它逐渐抚平了，大西洋的海水最终牢固而温顺地漫上来，晨曦伴随着被净化的海风铺在岛屿上。</p>
-<p>仿佛一根洁白的羽毛最终被海风带到一望无际的原野之上。</p>
-<p><img src="https://pics6.baidu.com/feed/f703738da9773912390b9335e1fec412377ae2a2.jpeg?token=9720c567471f56fce0bf4b0a9a63f383" alt="羽毛草"></p>
-<p>海鸥远逝在天际。</p>
-<p>它消失了，不知何时。</p>
-<p>一如多年前Adara-von-Schrodinger小姐重伤远行的那个雨夜，那个安静的黎明。</p>
-<p>by:张博文</p>
-]]></content>
-      <categories>
-        <category>文学</category>
       </categories>
       <tags>
         <tag>文学</tag>
